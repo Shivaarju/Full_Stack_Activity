@@ -1,0 +1,13 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.full-div{
+  width: 100vW;
+  height: calc(100vh - 70px);
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  background-color: grey;
+}
