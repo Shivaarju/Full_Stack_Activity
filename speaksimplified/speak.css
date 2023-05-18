@@ -1,0 +1,47 @@
+*{
+  margin:0px;
+  padding:0px;
+  background-color:rgb(240, 128, 128);
+  font-family: 'Courier New', Courier, monospace;
+}
+.heading{
+  text-align: center;
+  height: 70px;
+}
+.container{
+  background-color: blueviolet;
+  padding:30px;
+  align-items: center;
+  position: absolute;
+  width: 25%;
+}
+.Wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh - 70px);
+}
+#input{
+  padding:10px ;
+  background-color:aliceblue;
+}
+#answer{
+  padding:10px;
+  background-color: aliceblue;
+}
+#result1{
+  padding:10px;
+  color:aliceblue;
+  background-color: turquoise;
+}
+#result2{
+  padding:10px;
+  color:aliceblue;
+  background-color:turquoise ;
+
+}
+#result3{
+  padding:10px;
+  color:aliceblue;
+  background-color: turquoise;
+}
